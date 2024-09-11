@@ -51,6 +51,9 @@ Before running this project, please ensure your server meets the following hardw
  1. Visit the [Ollama website](https://ollama.com/download) and follow the installation instructions for your operating system.
  2. After installation, pull any model eg Gemma:2b:
  3. Create This PHP script (OllamChat.php) to handle POST requests and execute the shell command for running LLM on the server
+    ```bash
+    sudo nano /var/www/html/OllamaChat.php
+    ```
 ### 3. Composer
 
  Composer is needed to manage PHP dependencies. Install it globally:
@@ -69,6 +72,7 @@ Before running this project, please ensure your server meets the following hardw
  -Navigate to the Text_to_Speech_php directory and install the required packages:
 
  ```bash
+ sudo mkdir /var/www/html/Text_to_Speech_php
  cd Text_to_Speech_php
  composer require google/cloud-text-to-speech
  ```
