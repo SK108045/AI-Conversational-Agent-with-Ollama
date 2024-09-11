@@ -43,6 +43,7 @@ Before running this project, please ensure your server meets the following hardw
  sudo apt update
  sudo apt install apache2
  ```
+ The Chat.php file can be run locally or on the server.
  Also install php in the server
 ### 2. Ollama
 
