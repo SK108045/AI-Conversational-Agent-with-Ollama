@@ -20,7 +20,7 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
 
 ## Requirements
 
-Before running this project, please ensure your system meets the following hardware requirements:
+Before running this project, please ensure your server meets the following hardware requirements:
 
  **For Larger Models:**
   - GPU: A dedicated GPU is strongly recommended for optimal performance with larger language 
