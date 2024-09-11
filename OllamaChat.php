@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
 }
 
 $question = $_POST['question'];
-$command = 'cd /home/johnkahuria99/.ollama && ollama run gemma:2b ' . escapeshellarg($question);
+$command = 'cd /home/$Username$/.ollama && ollama run gemma:2b ' . escapeshellarg($question);
 $output = shell_exec($command);
 
 $response = [];
