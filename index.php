@@ -46,3 +46,4 @@ file_put_contents('output.mp3', $response->getAudioContent());
 echo json_encode(['status' => 'success', 'message' => 'Audio content written to file "output.mp3"']);
 
 $client->close();
+?>
