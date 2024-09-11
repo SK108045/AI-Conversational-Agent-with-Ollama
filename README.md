@@ -18,6 +18,19 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
  cd AI-Conversational-Agent-with-Ollama
  ```
 
+## Requirements
+
+Before running this project, please ensure your system meets the following hardware requirements:
+
+ **For Larger Models:**
+  - GPU: A dedicated GPU is strongly recommended for optimal performance with larger language 
+    models.
+  - RAM: 16GB or more is advised for smooth operation.
+
+ **For Smaller Models:**
+  - CPU: A modern multi-core processor (e.g., Intel i5/i7 or AMD Ryzen 5/7) is sufficient.
+  - RAM: Minimum 8GB, but 16GB or more is recommended for better performance.
+
 ## Dependencies and Installation
 
 ### 1. Apache Web Server
