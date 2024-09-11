@@ -22,8 +22,8 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
 
 ### 1. Apache Web Server
 
- You'll need a web server to run your PHP files.
- Install and configure Apache:
+ You'll need a web server to run your PHP files and the LLM.
+ First install and configure Apache:
 
  For Ubuntu:
  ```bash
@@ -59,8 +59,8 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
  cd Text_to_Speech_php
  composer require google/cloud-text-to-speech
  ```
- -This will create a composer.json file and a vendor directory with the necessary dependencies.
- -While in the Text_to_Speech_php folder create the Index.php file which will generate the audio
+ -This will create a composer.json file and a vendor directory with the necessary dependencies. While in the Text_to_Speech_php folder create 
+  the Index.php file which will generate the audio.
 
 ### 5. Environment Setup
  Set the environment variable for Google Application Credentials
