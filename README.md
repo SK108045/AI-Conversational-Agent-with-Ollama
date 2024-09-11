@@ -96,7 +96,7 @@ This interface provides an intuitive chat experience with the AI agent. Users ca
 
 ## Live Demo
 
-You can try out a live demo of the AI Conversational Agent here: [Live Demo](https://sk10codebase.online/Chatbot/index.php)
+You can try out a live demo of the AI Conversational Agent here: [Live Demo](https://sk10codebase.online/ChatBot/index.php)
 
 Please note that the live demo may have usage limitations or may not always be available.
 
