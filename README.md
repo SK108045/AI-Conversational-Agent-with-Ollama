@@ -51,7 +51,7 @@ Before running this project, please ensure your server meets the following hardw
 
  1. Visit the [Ollama website](https://ollama.com/download) and follow the installation instructions for your operating system.
  2. After installation, pull any model eg Gemma:2b:
- 3. Create This PHP script (OllamChat.php) to handle POST requests and execute the shell command for running LLM on the server
+ 3. Create This PHP script (OllamChat.php) to handle POST requests and execute the shell command for running the LLM on the server
     ```bash
     sudo nano /var/www/html/OllamaChat.php
     ```
