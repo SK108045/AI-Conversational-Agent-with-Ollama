@@ -77,8 +77,8 @@ Before running this project, please ensure your server meets the following hardw
  cd Text_to_Speech_php
  composer require google/cloud-text-to-speech
  ```
- -This will create a composer.json file and a vendor directory with the necessary dependencies. While in the Text_to_Speech_php folder create 
-  the Index.php file which will generate the audio.
+ - This will create a composer.json file and a vendor directory with the necessary dependencies. While in the Text_to_Speech_php folder create 
+   the Index.php file which will generate the audio.
 
 ### 5. Environment Setup
  Set the environment variable for Google Application Credentials
