@@ -4,6 +4,8 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
 
 ## Features
 
+![Chatbot UI Sample](https://simkafire.com/img/ChatBot.png)
+
 - Interactive chat interface
 - Ollama integration for natural language processing
 - Google Text-to-Speech integration for audio responses
