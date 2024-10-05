@@ -1,6 +1,6 @@
 # AI-Conversational-Agent-with-Ollama
 AI Conversational Agent with Ollama and Google Text-to-Speech.
-This project is an AI-powered conversational agent that uses Ollama for the language model and Google Text-to-Speech for audio output generation.
+This project is an AI-powered conversational agent that uses Ollama for the language model and Google Cloud Text-to-Speech for audio output generation.
 
 ## Features
 
