@@ -8,7 +8,7 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
 
 - Interactive chat interface
 - Ollama integration for natural language processing
-- Google Text-to-Speech integration for audio responses
+- Google Cloud Text-to-Speech integration for audio responses
 - Real-time word-by-word display of responses
 - Audio playback of AI responses
 
