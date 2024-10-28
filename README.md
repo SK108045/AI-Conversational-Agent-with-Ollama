@@ -4,7 +4,7 @@ This project is an AI-powered conversational agent that uses Ollama for the lang
 
 ## Features
 
-![Chatbot UI Sample](https://simkafire.com/img/ChatBot.png)
+![Chatbot UI Sample](https://sk10codebase.online/images/Chatbot.png)
 
 - Interactive chat interface
 - Ollama integration for natural language processing
@@ -92,7 +92,7 @@ Before running this project, please ensure your server meets the following hardw
 
 Here's a sample image of the chatbot UI:
 
-![Chatbot UI Sample](https://simkafire.com/img/ChatBot.png)
+![Chatbot UI Sample](https://sk10codebase.online/images/Chatbot.png)
 
 This interface provides an intuitive chat experience with the AI agent. Users can type their questions or prompts in the input field at the bottom, and the AI's responses appear in the chat area above. The speaker icon is generated after the output from the LLM which contains the Audio output
 
